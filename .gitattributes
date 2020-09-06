@@ -1,0 +1,4 @@
+Release-iphoneos/IJKMediaFramework.framework/Release-iphoneos/IJKMediaFramework.framework/ filter=lfs diff=lfs merge=lfs -text
+Release-iphoneos/IJKMediaFramework.framework/IJKMediaFramework filter=lfs diff=lfs merge=lfs -text
+Release-iphonesimulator/IJKMediaFramework.framework/IJKMediaFramework filter=lfs diff=lfs merge=lfs -text
+IJKMediaFramework filter=lfs diff=lfs merge=lfs -text
