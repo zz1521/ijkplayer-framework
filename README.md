@@ -2,9 +2,6 @@
 
 ijkplayer编译打包的framework
 
-
-# [前往下载](https://gitee.com/ifeiyv/ijkplayer-framework)
-
 - module-default.sh 更多的编解码器/格式
 - module-lite-hevc.sh 较少的编解码器/格式(包括hevc)
 - module-lite.sh 较少的编解码器/格式(默认情况)
